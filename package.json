@@ -1,0 +1,20 @@
+{
+  "name": "Here-To-Help",
+  "version": "1.0.0",
+  "description": "An app to provide helpful links for those who are suffering from a range of mental difficulties. For those experiencing anxiety, depression, restlessness, trouble focusing, and many more. This is built with ReactJS &amp; Express",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jboles31/Here-To-Help.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jboles31/Here-To-Help/issues"
+  },
+  "homepage": "https://github.com/jboles31/Here-To-Help#readme"
+}
